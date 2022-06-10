@@ -1,111 +1,110 @@
-{
-    "productos" : [
-        {
-            "imagen": "Skill_1.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 1
-        },
-        {
-            "imagen": "Skill_2.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 2
-        },
-        {
-            "imagen": "Skill_3.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 3
-        },
-        {
-            "imagen": "Skill_4.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 4
-        },
-        {
-            "imagen": "Skill_5.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 5
-        },
-        {
-            "imagen": "Skill_6.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 6
-        },
-        {
-            "imagen": "Consola_1.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 7
-        },
-        {
-            "imagen": "Consola_2.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 8
-        },
-        {
-            "imagen": "Consola_3.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 9
-        },
-        {
-            "imagen": "Consola_4.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 10
-        },
-        {
-            "imagen": "Consola_5.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 11
-        },
-        {
-            "imagen": "Consola_6.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 12
-        },
-        {
-            "imagen": "Diversos_1.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 13
-        },
-        {
-            "imagen": "Diversos_2.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 14
-        },
-        {
-            "imagen": "Diversos_3.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 15
-        },
-        {
-            "imagen": "Diversos_4.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 16
-        },
-        {
-            "imagen": "Diversos_5.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 17
-        },
-        {
-            "imagen": "Diversos_6.png",
-            "nombre":"ProductoXYZ",
-            "precio":"60.00",
-            "id": 18
-        }
-]}
+[
+    {
+        "imagen": "Skill_1.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 1
+    },
+    {
+        "imagen": "Skill_2.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 2
+    },
+    {
+        "imagen": "Skill_3.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 3
+    },
+    {
+        "imagen": "Skill_4.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 4
+    },
+    {
+        "imagen": "Skill_5.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 5
+    },
+    {
+        "imagen": "Skill_6.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 6
+    },
+    {
+        "imagen": "Consola_1.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 7
+    },
+    {
+        "imagen": "Consola_2.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 8
+    },
+    {
+        "imagen": "Consola_3.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 9
+    },
+    {
+        "imagen": "Consola_4.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 10
+    },
+    {
+        "imagen": "Consola_5.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 11
+    },
+    {
+        "imagen": "Consola_6.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 12
+    },
+    {
+        "imagen": "Diversos_1.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 13
+    },
+    {
+        "imagen": "Diversos_2.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 14
+    },
+    {
+        "imagen": "Diversos_3.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 15
+    },
+    {
+        "imagen": "Diversos_4.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 16
+    },
+    {
+        "imagen": "Diversos_5.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 17
+    },
+    {
+        "imagen": "Diversos_6.png",
+        "nombre":"ProductoXYZ",
+        "precio":"60.00",
+        "id": 18
+    }       
+]
